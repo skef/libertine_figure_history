@@ -1,7 +1,7 @@
 # History of the Development of Linux Libertine Arabic Numeral Glyphs
 
 The two FontForge `.sfd` files in this repository contain the different
-versions of arabic numeral glyphs through time, as recorded in the its [SVN
+versions of arabic numeral glyphs through time, as recorded in its [SVN
 Repository](https://sourceforge.net/p/linuxlibertine/svn/HEAD/tree/trunk/).
 It therefore only covers the subset of development that took place between
 August 2008 and the last revision (166) of September 2011. 
